@@ -4,13 +4,13 @@
 - react extension
 - react-dom , react -native
 - αρχειο jsx
-- jsx , babel, μουστακια,
+- jsx , babel, μουστακια, {number, string, array,boolean}
 - components (fragments)
 - props (destructuring)
 - chlildren (τα children ειναι props)
 - v-if
 - v-for (keys)
-- hoocks (intro, rules)
+- hooks (intro, rules)
 - state, (re)render (πότε γίνεται και τί εκτελείται) - κουμπι(oxi mutation, allagi me functional tropo)
 - state delay:
 
@@ -33,7 +33,7 @@ function DelayedCount() {
 
 -state batching (parageigma me 2 koumpia kai paradeigma me dipli allagi, react 18)
 
-- forms
+- forms , Handling Multiple Inputs with a Single onChange
 - useEffect
 - data detching- get data
 - data fetching- set data
